@@ -1,0 +1,1 @@
+To find the scripts that I worked on (gameplay programming), go into Assets/Scripts. All of the scripts in the Actor_Classes and Antagonist_Classes as well as the parent LodestarActor script were written by me, and I wrote parts of the LodestarNode, LodestarTransform, LodestarMap, and LodestarDirection scripts. 
