@@ -1,0 +1,44 @@
+p1:-1 0 /Assets/Scenes.meta
+p1:-1 0 /Assets/Scenes/placeholder.txt
+p1:-1 0 /Assets/Scenes/placeholder.txt.meta
+p1:-1 0 /Assets/Scenes/SampleScene.unity
+p1:-1 0 /Assets/Scenes/SampleScene.unity.meta
+p1:-1 0 /Assets/Dev.meta
+p1:-1 0 /Assets/Dev/Ryan.meta
+p1:-1 0 /Assets/Dev/Ryan/Ryan_DevScene.unity
+p1:-1 0 /Assets/Dev/Ryan/Ryan_DevScene.unity.meta
+p1:-1 0 /Assets/Dev/Sam.meta
+p1:-1 0 /Assets/Dev/Sam/Sam_DevScene.unity
+p1:-1 0 /Assets/Dev/Sam/Sam_DevScene.unity.meta
+p1:-1 0 /Assets/Master_Scenes.meta
+p1:-1 0 /Assets/Master_Scenes/placeholder.txt
+p1:-1 0 /Assets/Master_Scenes/placeholder.txt.meta
+p1:-1 0 /Assets/Master_Scenes/SampleScene.unity
+p1:-1 0 /Assets/Master_Scenes/SampleScene.unity.meta
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP send failed.\nwrite: socket: Broken pipe\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP send failed.\nwrite: socket: Broken pipe\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+TCP receive failed.
+read: socket: Operation timed out
+
+e1:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP connect to perforce.sca.usc.edu:1666 failed.\nnodename nor servname provided, or not known\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP send failed.\nwrite: socket: Broken pipe\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n
+e32:TCP send failed.\nwrite: socket: Broken pipe\n
+e32:TCP send failed.\nwrite: socket: Broken pipe\n
+e32:TCP send failed.\nwrite: socket: Broken pipe\n
+/Users/zubery/Perforce/zubery_macbook_osx_intermediate/ctin_484/Project/Lodestar/Assets/Metrics.meta - file(s) not on client.
+
+w1:/Users/zubery/Perforce/zubery_macbook_osx_intermediate/ctin_484/Project/Lodestar/Assets/Metrics.meta - file(s) not on client.\n
+e32:TCP receive failed.\nread: socket: Operation timed out\n

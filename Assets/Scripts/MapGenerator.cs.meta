@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 89b7b0846f2d447b19df8170fa9e1d13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChaserPrefab: {fileID: 8814960398155600872, guid: 12ee22accad234073a4055d98cf05b99, type: 3}
+  - WatchtowerPrefab: {fileID: 6654725943914771299, guid: 8cd4fd113ebef4211a1ce629c5f18547, type: 3}
+  - AttractorPrefab: {fileID: 8006401431641861915, guid: 7eaa5f36e1ed64e3bad686ee332c3010, type: 3}
+  - TerrifierPrefab: {fileID: 6153368762483505815, guid: 7e6d41e475a5e4d6eb59598048c40592, type: 3}
+  - PlayerPrefab: {fileID: 6460669424332844307, guid: cfd66bdc15c6e4895916c3224069c0db, type: 3}
+  - EndpointPrefab: {fileID: 7118893403516537904, guid: b5feb0d0843564160a574bdcc51e54dc, type: 3}
+  - NodePrefab: {fileID: 941945736733492949, guid: 1a5e3c0d518fb4052b62de156ce08581, type: 3}
+  - BridgePrefab: {fileID: 8058786288569999744, guid: 3465b9ae5fb9a4b06a2e594eecb908a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

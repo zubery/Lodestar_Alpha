@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &761919516362100042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 761919516362100041}
+  - component: {fileID: 761919516362100047}
+  - component: {fileID: 761919516362100040}
+  m_Layer: 0
+  m_Name: _MapManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &761919516362100041
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761919516362100042}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &761919516362100047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761919516362100042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d36b77eba0a961f4cb5bcc157c423af4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MapFile: {fileID: 4900000, guid: aed7522950e9f4d0dbac64e5eebbeca4, type: 3}
+--- !u!114 &761919516362100040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761919516362100042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89b7b0846f2d447b19df8170fa9e1d13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ChaserPrefab: {fileID: 8814960398155600872, guid: 12ee22accad234073a4055d98cf05b99, type: 3}
+  WatchtowerPrefab: {fileID: 6654725943914771299, guid: 8cd4fd113ebef4211a1ce629c5f18547, type: 3}
+  AttractorPrefab: {fileID: 8006401431641861915, guid: 7eaa5f36e1ed64e3bad686ee332c3010, type: 3}
+  TerrifierPrefab: {fileID: 6153368762483505815, guid: 7e6d41e475a5e4d6eb59598048c40592, type: 3}
+  PlayerPrefab: {fileID: 6460669424332844307, guid: cfd66bdc15c6e4895916c3224069c0db, type: 3}
+  EndpointPrefab: {fileID: 7118893403516537904, guid: b5feb0d0843564160a574bdcc51e54dc, type: 3}
+  NodePrefab: {fileID: 941945736733492949, guid: 1a5e3c0d518fb4052b62de156ce08581, type: 3}
+  BridgePrefab: {fileID: 8058786288569999744, guid: 3465b9ae5fb9a4b06a2e594eecb908a5, type: 3}
+  MapScalar: 3
+  MapOffset: {x: 0, y: 0, z: 0}
+  ShouldAutoCenter: 1
